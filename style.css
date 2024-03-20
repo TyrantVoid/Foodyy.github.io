@@ -149,8 +149,8 @@ section:nth-child(even){
 
 .btn{
   margin-top: 1rem;
-    /* display: inline-block; */   /*!original*/
-  display: block;
+    display: inline-block;    /*!original*/
+/*   display: block; */
   font-size: 1.7rem;
   color: #fff;
   background: var(--black);
